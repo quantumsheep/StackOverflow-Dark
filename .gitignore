@@ -1,5 +1,4 @@
 # lockfiles
-package-lock.json
 yarn.lock
 
 # temp stuff
@@ -12,7 +11,6 @@ tmp/
 *.log
 
 # Build
-node_modules/
 build.json
 *.build.css
 
